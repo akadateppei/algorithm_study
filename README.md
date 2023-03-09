@@ -3,5 +3,7 @@
 
 # リンク
 [自動採点](https://atcoder.jp/contests/math-and-algorithm)
+
 [C++以外の言語の実装令](https://github.com/E869120/math-algorithm-book)
+
 [最終確認問題の解答](https://github.com/E869120/math-algorithm-book)
